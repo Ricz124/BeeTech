@@ -1,0 +1,36 @@
+@import url('https://fonts.cdnfonts.com/css/letter-gothic-std-2');
+
+* {
+    font-family: 'Letter Gothic Std', sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: black;
+    background-color: rgb(255, 225, 0);
+    padding: 150px;
+    font-weight: bolder;
+    text-decoration: underline 10px;
+}
+
+h2{
+    color: whitesmoke;
+    padding: 40px;
+    font-size: medium;
+}
+
+div h2{
+    color: whitesmoke;
+    padding: 20px;
+    font-size: medium;
+}
+
+.foot{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: whitesmoke;
+    padding: 50px;
+}
